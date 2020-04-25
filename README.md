@@ -1,6 +1,6 @@
 # integral-rectangular-function-python
 integral rectangular function python
-
+Dependencies : matplotlib , pyqt5 math,scipy , pandas, numpy
 Draws rectengular function with the spicified number of rectangles 
 The available fonctions for now : x2 and x3 and ln(x) and exp(x) 
 
